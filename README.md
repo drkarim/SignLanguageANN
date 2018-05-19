@@ -9,7 +9,7 @@ In this code, logistic regression is implemented only with Numpy arrays. The cod
 The dataset is the sign language dataset ```Turkey Ankara Ayrancı Anadolu High School's Sign Language Digits Dataset``` that was made available here: 
 https://github.com/ardamavi/Sign-Language-Digits-Dataset
 
-The dataset contains sign language 100x100 JPG images using finger digits from 0-9. However, the dataset included here is the .npy compressed version of the data. 
+The dataset contains sign language 100x100 JPG images using finger digits from 0-9. However, the dataset included here is the ```.npy``` compressed version of the data. 
 
 
 
